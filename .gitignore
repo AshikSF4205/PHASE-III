@@ -1,3 +1,4 @@
-AdvOOPsApps/*/.vscode/
-AdvOOPsApps/*/obj/
-AdvOOPsApps/*/bin/
+.vscode/
+obj/
+bin/
+*.sln
